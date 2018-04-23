@@ -1,6 +1,7 @@
 /* Style Header */
 body{
   margin: 0;
+  min-width: 1232px;
 }
 
 content{
@@ -270,7 +271,7 @@ footer{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 100%;
+  width: inherit;
 }
 
 .brand{
